@@ -10,7 +10,6 @@ import in.tech_camp.firstapp.form.PostForm;
 import in.tech_camp.firstapp.repository.PostRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 
 @Controller
 @AllArgsConstructor
